@@ -1,2 +1,2 @@
 # Lab Assignment 1
- TODO APP ITEM ADD AND DELETE
+ Todo App item add and delete
